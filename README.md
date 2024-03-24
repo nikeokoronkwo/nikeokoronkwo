@@ -15,6 +15,6 @@ Here are some (not an exhaustive list: I usually find myself using a lot of) lan
 <!-- I have used many languages, but my favourites have to be **C++** and **Dart**.
 I have also worked on many fields, including but not limited to Web Development, Low-Level Systems Programming (as well as CLI Interfaces), Mobile Development (Flutter and iOS) as well as Embedded Systems. -->
 
-Discussions/Projects: [Contact me](info@nugegroup.com)
+Discussions/Projects: info@nugegroup.com.
 
 Contributions: [Buy me a coffee](https://www.buymeacoffee.com/nikeokoronkwo).
