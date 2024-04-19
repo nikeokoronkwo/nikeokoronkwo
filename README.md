@@ -17,4 +17,4 @@ I have also worked on many fields, including but not limited to Web Development,
 
 Discussions/Projects: info@nugegroup.com.
 
-Contributions: [Buy me a coffee](https://www.buymeacoffee.com/nikeokoronkwo).
+Contributions: [Buy me a coffee](https://www.buymeacoffee.com/nikeokoronkwo) [Patreon](https://patreon.com/nikechukwu?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink).
