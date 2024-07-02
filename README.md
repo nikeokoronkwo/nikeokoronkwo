@@ -5,7 +5,7 @@ This is Nikechukwu Okoronkwo's official Github Page:
 
 You can find some of my personal projects here. Check the organisations for more formal projects.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeokoronkwo&size_weight=0.5&count_weight=0.5&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeokoronkwo&size_weight=0.5&count_weight=0.5&langs_count=5)
 
 <!--
 I have worked on many fields, including but not limited to Web Development, Low-Level Systems Programming (as well as CLI Interfaces), Mobile Development (Flutter and iOS) as well as Embedded Systems. -->
