@@ -1,15 +1,13 @@
-# The README
-This is Nikechukwu Okoronkwo's official Github Page:
-- Founder/Owner of NUGE
-- Founder/Owner of the Pheasant Framework Group: Responsible for The Pheasant Framework.
+[![JSR Scope](https://jsr.io/badges/@dyte)](https://jsr.io/@dyte)
 
-You can find some of my personal projects here. Check the organisations for more formal projects.
+This is Nikechukwu Okoronkwo's official Github Page:
+
+- Mostly found making libraries and tools in Dart and JavaScript.
+- Mainly works on low-level projects in C++ (sometimes with Rust, trying out Zig at the moment).
+- Driven by change - one step at a time.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeokoronkwo&size_weight=0.5&count_weight=0.5&langs_count=5)](https://github.com/nikeokoronkwo#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeokoronkwo&size_weight=0.5&count_weight=0.5&langs_count=5&theme=dark)](https://github.com/nikeokoronkwo#gh-dark-mode-only)
-
-<!--
-I have worked on many fields, including but not limited to Web Development, Low-Level Systems Programming (as well as CLI Interfaces), Mobile Development (Flutter and iOS) as well as Embedded Systems. -->
 
 Discussions/Projects: info@nugegroup.com.
 
