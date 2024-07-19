@@ -1,5 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeokoronkwo&size_weight=0.5&count_weight=0.5&langs_count=5)](https://github.com/nikeokoronkwo#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeokoronkwo&size_weight=0.5&count_weight=0.5&langs_count=5&theme=dark)](https://github.com/nikeokoronkwo#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeokoronkwo&size_weight=0.5&count_weight=0.5&langs_count=6)](https://github.com/nikeokoronkwo#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeokoronkwo&size_weight=0.5&count_weight=0.5&langs_count=6&theme=dark)](https://github.com/nikeokoronkwo#gh-dark-mode-only)
 
 Discussions/Projects: info@nugegroup.com.
 
