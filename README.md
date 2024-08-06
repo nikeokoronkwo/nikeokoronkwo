@@ -4,6 +4,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikeokoronkwo&title=MultiLanguage,Commits&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikeokoronkwo&title=MultiLanguage,Commits&margin-w=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 
-Discussions/Projects: [Email Me](mailto:nikechukwu@nugegroup.com).
+Discussions/Projects: [Email Me](mailto:nikechukwu@gmail.com).
 
 Contributions: [Buy me a coffee](https://www.buymeacoffee.com/nikeokoronkwo) [Patreon](https://patreon.com/nikechukwu?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink).
